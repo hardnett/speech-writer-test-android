@@ -11,10 +11,14 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		//for loop
+		//changed for loop
 		for(int i=0; i<10; i++){
-			System.out.println(i);
+			System.out.print(i + ": ");
+			for(int j=0; j<i; j++){
+				System.out.println(j);
+			}
 		}
+		
 	}
 
 	
