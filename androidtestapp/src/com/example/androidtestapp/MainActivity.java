@@ -19,9 +19,7 @@ public class MainActivity extends Activity {
 			}
 		}
 		
-		System.out.println("I added this line from git hubs editor");
-		System.out.println("I will fetch this file and store in local repository");
-		System.out.println("Fetch completed");
+		//Comments r us
 	}
 
 	
