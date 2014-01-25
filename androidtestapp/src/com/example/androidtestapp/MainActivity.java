@@ -19,6 +19,8 @@ public class MainActivity extends Activity {
 			}
 		}
 		
+		System.out.println("I added this line from git hubs editor");
+		
 	}
 
 	
