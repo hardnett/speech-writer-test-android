@@ -21,8 +21,6 @@ public class MainActivity extends Activity {
 		
 		//Comments r us
 	}
-
-	
 	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
