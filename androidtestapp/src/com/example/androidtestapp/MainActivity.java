@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 			}
 		}
 		
-		//Comments r us
+		//Making another comment
 	}
 	
 	@Override
